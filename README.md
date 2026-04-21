@@ -230,7 +230,7 @@ kubectl get hpa -w
 
 
 
-All command outputs and observations are captured in the \*\*\[screenshots/](./screenshots)\*\* folder.
+All command outputs and observations are captured in the **[screenshots/](./screenshots)** folder.
 
 \---
 
